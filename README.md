@@ -12,7 +12,7 @@ This project is a deep learning-based image classification system for recognizin
 
 ---
 
-##📊 Model Performance 
+## 📊 Model Performance 
 
 After training for 5 epochs on a stratified dataset, the model reached:
 
@@ -32,7 +32,7 @@ After training for 5 epochs on a stratified dataset, the model reached:
 | 5     | 0.15          | 0.14            | **96.23%** ✅|
 
 ### 📉 Loss Curve
-[Loss over Epochs](output.png)
+![Loss over Epochs](output.png)
 
 ---
 
